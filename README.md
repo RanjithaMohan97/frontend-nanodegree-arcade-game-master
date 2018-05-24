@@ -20,5 +20,5 @@ Players needs to reach the other end (i.e To water block) in the game inorder to
 
 ### Link to play
 https://github.com/RanjithaMohan97/frontend-nanodegree-arcade-game-master
-
+After downloading the project, Player needs to install all files in their respective system. Inorder to play they need to open the index.html file in the browser and thats it!! You are ready to play now :)
 
