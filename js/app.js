@@ -72,11 +72,11 @@ player1.prototype.render = function() {
 player1.prototype.handleInput=function(input){
     if(input =='left' && this.x>0)
     {
-        this.x-=90;
+        this.x-=50;
     }
-    if(input == 'right' && this.x<550)
+    if(input == 'right' && this.x<400)
     {
-        this.x+=90;
+        this.x+=50;
     }
     if(input == 'up' && this.y>0)
     {
